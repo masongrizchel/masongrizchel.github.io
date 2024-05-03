@@ -17,16 +17,20 @@ platforms:
   - name: Google Scholar
     icon: <i class="fa-brands fa-google-scholar"></i>
   - name: ORCID
+    link: https://orcid.org/my-orcid?orcid=0000-0001-9839-4412
     icon: <i class="fa-brands fa-orcid"></i>
   - name: Ko-fi
     icon: <i class="fas fa-mug-hot ko-fi"></i>
     link: https://www.kofi.com/simasongcute
   - name: Tumblr
     icon: <i class="fa-brands fa-square-tumblr"></i>
+    link: masongrizchel.tumblr.com
   - name: Spotify
     icon: <i class="fa-brands fa-spotify"></i>
+    link: https://open.spotify.com/show/5YBqmxhXJQTXDlDrpMImNV?si=7f76c1e87ee540da
   - name: Patreon
     icon: <i class="fa-brands fa-patreon"></i>
+    link: https://www.patreon.com/simasongcute
 
 
 navigation:
