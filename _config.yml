@@ -22,9 +22,9 @@ platforms:
     icon: <i class="fas fa-mug-hot ko-fi"></i>
     link: https://www.kofi.com/simasongcute
   - name: Tumblr
-    icon: <i class="fa fa-Tumblr"></i>
+    icon: <i class="fa fa-tumblr" aria-hidden="true"></i>
   - name: Spotify
-    icon: <i class="fa fa-spotify"></i>
+    icon: <i class="fa fa-spotify" aria-hidden="true"></i>
 
 
 navigation:
