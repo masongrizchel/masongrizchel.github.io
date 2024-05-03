@@ -32,7 +32,6 @@ platforms:
     icon: <i class="fa-brands fa-patreon"></i>
     link: https://www.patreon.com/simasongcute
 
-
 navigation:
   - name: Readme
     link: ./index.html
