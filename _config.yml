@@ -15,8 +15,10 @@ platforms:
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/masongrizchel
   - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    icon: <i class="fa-brands fa-kofi"></i>
+    link: https://www.kofi.com/simasongcute
+  - name: Tumblr
+    icon: <i class="fa-brands fa-Tumblr"></i>
 
 navigation:
   - name: Readme
