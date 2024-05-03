@@ -10,6 +10,22 @@ plugins:
   - jekyll-seo-tag
   - jemoji
 
+navigation:
+  - name: Home
+    link: ./index.html
+  - name: Research
+    sublist:
+      - name: Highlights
+        link: ./index.html
+      - name: Statements
+        link: ./index.html
+  - name: Teaching
+    link: ./another-page.html
+  - name: Bio
+  - link: ./another-page.html
+  - name: Contact
+  - link: link: ./another-page.html
+
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
@@ -31,12 +47,3 @@ platforms:
   - name: Patreon
     icon: <i class="fa-brands fa-patreon"></i>
     link: https://www.patreon.com/simasongcute
-
-navigation:
-  - name: Readme
-    link: ./index.html
-    sublist:
-      - name: Image
-        link: ./index.html#small-image
-  - name: Another Page
-    link: ./another-page.html
