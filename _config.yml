@@ -1,6 +1,6 @@
 title: Rizchel Masong
 logo: /assets/img/logo_1.jpg
-email: rizchel_masong@dlsu.edu.ph, rizchel.masong@globalcomfortgroup.com
+email: rizchel_masong@dlsu.edu.ph
 description: Your AI Officer and Radio Astronomer.
 favicon: true
 color-scheme: auto
@@ -14,6 +14,10 @@ platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/masongrizchel
+  - name: Google Scholar
+    icon: <i class="fa-brands fa-google-scholar"></i>
+  - name: ORCID
+    icon: <i class="fa-brands fa-orcid"></i>
   - name: Ko-fi
     icon: <i class="fas fa-mug-hot ko-fi"></i>
     link: https://www.kofi.com/simasongcute
