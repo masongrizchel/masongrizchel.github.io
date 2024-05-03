@@ -1,7 +1,7 @@
 title: Rizchel Masong
 logo: /assets/img/logo_1.jpg
 
-email: rizchel_masong@dlsu.edu.ph
+link: rizchel_masong@dlsu.edu.ph
 
 email: rizchel.masong@globalcomfortgroup.com
 
@@ -18,11 +18,12 @@ platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/masongrizchel
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-kofi"></i>
+  - name: Ko-fi
+    icon: <i class="fas fa-mug-hot ko-fi"></i>
     link: https://www.kofi.com/simasongcute
   - name: Tumblr
-    icon: <i class="fa-brands fa-Tumblr"></i>
+    icon: <i class="fa fa-tumblr"></i>
+
 
 navigation:
   - name: Readme
