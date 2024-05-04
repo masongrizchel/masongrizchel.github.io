@@ -42,8 +42,8 @@ navigation:
       - name: Statements
         link: ./index.html
   - name: Teaching
-    link: ./another-page.html
+    link: ./index.html
   - name: Bio
-  - link: ./another-page.html
+  - link: ./index.html
   - name: Contact
-  - link: link: ./another-page.html
+  - link: link: ./index.html
