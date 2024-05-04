@@ -44,6 +44,6 @@ navigation:
   - name: Teaching
     link: ./index.html
   - name: Bio
-  - link: ./index.html
+    link: ./index.html
   - name: Contact
-  - link: link: ./index.html
+    link: link: ./index.html
