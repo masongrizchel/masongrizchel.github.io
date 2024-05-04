@@ -5,11 +5,6 @@ description: Your AI Officer and Radio Astronomer.
 favicon: true
 color-scheme: auto
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
-
 navigation:
   - name: Home
     link: ./index.html
@@ -25,6 +20,11 @@ navigation:
     link: ./index.html
   - name: Contact
     link: ./index.html
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
 
 platforms:
   - name: GitHub
