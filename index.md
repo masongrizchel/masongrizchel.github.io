@@ -7,12 +7,12 @@ layout: default
 Hello, and welcome to my website! I’m Rizchel, an Artificial Intelligence Officer and an MSc Physics (candidate) dedicated to exploring the cosmos’ vastness!
 
 <center> Literally me overthinking about overthinking </center>
-<center><img src="./assets.img/thinker.jpg" width="75%"></center>
+<center><img src="./assets/img/thinker.jpg" width="75%"></center>
 
 Here, I'll share my latest discoveries and thoughts on cutting-edge developments in the field. Discover the developments in my life, whether they involve personal experiences, professional endeavors, or lessons to learn and draw inspiration from. This includes my academic endeavors. Join me on this exciting journey of cosmic exploration, and feel free to [contact](mailto:simasongcute@gmail.com) with any questions or comments. Let us unlock the possibility of pushing the boundaries of knowledge!
 
 <center> My initial measurement procedures (attempts only) </center>
-<center><img src="./assets.img/experiments.jpg" width="75%"></center>
+<center><img src="./assets/img/experiments.jpg" width="75%"></center>
 
 <br />
 Top Blog Posts: <br />
