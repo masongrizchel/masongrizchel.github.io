@@ -5,21 +5,10 @@ description: Your AI Officer and Radio Astronomer.
 favicon: true
 color-scheme: auto
 
-navigation:
-  - name: Home
-    link: ./index.html
-  - name: Research
-    sublist:
-      - name: Highlights
-        link: ./index.html
-      - name: Statements
-        link: ./index.html
-  - name: Teaching
-    link: ./index.html
-  - name: Bio
-    link: ./index.html
-  - name: Contact
-    link: ./index.html
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
 
 platforms:
   - name: GitHub
@@ -43,7 +32,18 @@ platforms:
     icon: <i class="fa-brands fa-patreon"></i>
     link: https://www.patreon.com/simasongcute
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
+navigation:
+  - name: Home
+    link: ./index.html
+  - name: Research
+    sublist:
+      - name: Highlights
+        link: ./index.html
+      - name: Statements
+        link: ./index.html
+  - name: Teaching
+    link: ./index.html
+  - name: Bio
+    link: ./index.html
+  - name: Contact
+    link: ./index.html
