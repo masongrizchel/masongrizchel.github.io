@@ -4,6 +4,8 @@ layout: default
 
 > "Sapiens qui prospicit" - Personal Mantra
 
+Hello, and welcome to my website! I’m Rizchel, an Artificial Intelligence Officer and an MSc Physics (candidate) dedicated to exploring the cosmos’ vastness!
+
 <center> Literally me overthinking about overthinking </center>
 <center><img src="./assets.img/thinker.jpg" width="75%"></center>
 
