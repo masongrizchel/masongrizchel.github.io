@@ -21,11 +21,6 @@ navigation:
   - name: Contact
     link: ./index.html
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
-
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
@@ -47,3 +42,8 @@ platforms:
   - name: Patreon
     icon: <i class="fa-brands fa-patreon"></i>
     link: https://www.patreon.com/simasongcute
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
