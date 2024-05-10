@@ -35,11 +35,12 @@ navigation:
   - name: Home
     link: ./index.html
   - name: Research
+    link: ./Research.html
     sublist:
       - name: Highlights
-        link: ./index.html
+        link: ./Research.html#highlights
       - name: Statements
-        link: ./index.html
+        link: ./Research.html#statements
   - name: Teaching
     link: ./index.html
   - name: Bio
