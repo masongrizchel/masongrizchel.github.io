@@ -2,22 +2,25 @@
 layout: default
 ---
 
-> "Sapiens qui prospicit" - Personal Mantra
+### Interests
+*Physics, Radio astronomy*, Astrophysics, Machine Learning, Data Science, Physics Education, Artificial Intelligence. 
 
-<justify> Hello, and welcome to my website! I’m Rizchel, an Artificial Intelligence Officer and an MSc Physics (candidate) dedicated to exploring the cosmos’ vastness! </justify>
+### Research Vision-Mission Statement
+Decades or even centuries ago, most of the observations in astronomy with the application of physics focused more on the optical window of electromagnetic radiation.
 
-<center> Literally me overthinking about overthinking </center>
-<center><img src="./assets/img/thinker.jpg" width="75%"></center>
+My goal is to measure RFI values with interference caused by different factors and their utilization to perform RFI measurements that will determine whether the chosen site is suitable for radio astronomy observations within 21 cm hydrogen line ~ 1420.4 MHz.
 
-<justify> Here, I'll share my latest discoveries and thoughts on cutting-edge developments in the field. Discover the developments in my life, whether they involve personal experiences, professional endeavors, or lessons to learn and draw inspiration from. This includes my academic endeavors. Join me on this exciting journey of cosmic exploration, and feel free to [contact](mailto:simasongcute@gmail.com) with any questions or comments. Let us unlock the possibility of pushing the boundaries of knowledge! </justify>
+The measurement of RFI in a selected region in the Philippines can provide an open window for different people to explore radio astronomy observation as we are looking at the same sky. The discovery of radio astronomy led to a further understanding of the universe's age and cosmic microwave background and even served as a test to the theories formulated decades ago.
 
-<center> My initial measurement procedures (attempts only) </center>
-<center><img src="./assets/img/experiments.jpg" width="75%"></center>
+### Experience
+- Graduate Student Research, OPTICS, De La Salle University, 2016 - present
+- University Research Associate, De La Salle University, 2017 - 2020
+- Project Development Officer, De La Salle University, 2020 - 2023
 
-<br />
-Top Blog Posts: <br />
-[Why Physics is for Anyone?](https://ko-fi.com/i/IP5P2UTAG1) <br />
-[Lessons that We Can Learn from Failure](https://ko-fi.com/post/Lesson-that-we-can-learn-from-failure-G2G4UWF8J) <br />
-[On Carefully Selecting your Research Adviser](https://ko-fi.com/post/On-Carefully-Selecting-your-Research-Adviser-C0C1V5ZXK) <br />
-[Why We Need More Scientists in the Philippines?](https://ko-fi.com/post/Why-We-Need-More-Scientists-in-the-Philippines-S6S0VK8S8) <br />
-[The Route to Normal Science](https://ko-fi.com/post/The-Route-to-Normal-Science-G2G1VVXFB) <br />
+### Education:
+- MS Physics, De la Salle University, 2015 - present <br/>
+- BSEd Physical Science, Pamantasan ng Lungsod ng Valenzuela, *Community Development Awardee*, *Best Research Presenter*, 2011 - 2015 <br/>
+
+### Miscellaneous
+Languages: English, Filipino <br/>
+Coding: Python, MATLAB, R, LaTeX
