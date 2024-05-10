@@ -40,7 +40,7 @@ navigation:
       - name: Highlights
         link: ./Research.html#highlights
       - name: Statements
-        link: ./Research.html#statements
+        link: ./Research.html#statement
   - name: Teaching
     link: ./index.html
   - name: Bio
