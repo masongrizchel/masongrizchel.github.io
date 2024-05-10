@@ -1,23 +1,13 @@
 ---
 layout: default
 ---
+> "I really love your teaching style. Everything makes sense, just like how science intended it to be." - JBM
 
-> "Sapiens qui prospicit" - Personal Mantra
+## As a physics teacher
 
-<justify> Hello, and welcome to my website! I’m Rizchel, an Artificial Intelligence Officer and an MSc Physics (candidate) dedicated to exploring the cosmos’ vastness! </justify>
+To me, physics is one of the most interesting subjects that I have encountered. 
+It delves into the realms of energy and matter, exploring their intricacies from the minutest particles to the grandest scales. The most fundamental, comprehensive, and the most beautiful discipline that became part of me. When I have the chance to study it further, I was fortunate enough to have the best teachers/professors which piqued further my interest.
+Making one of the toughest subjects come alive makes me appreciate its essence as well as its elegance.
 
-<center> Literally me overthinking about overthinking </center>
-<center><img src="./assets/img/thinker.jpg" width="75%"></center>
-
-<justify> Here, I'll share my latest discoveries and thoughts on cutting-edge developments in the field. Discover the developments in my life, whether they involve personal experiences, professional endeavors, or lessons to learn and draw inspiration from. This includes my academic endeavors. Join me on this exciting journey of cosmic exploration, and feel free to [contact](mailto:simasongcute@gmail.com) with any questions or comments. Let us unlock the possibility of pushing the boundaries of knowledge! </justify>
-
-<center> My initial measurement procedures (attempts only) </center>
-<center><img src="./assets/img/experiments.jpg" width="75%"></center>
-
-<br />
-Top Blog Posts: <br />
-[Why Physics is for Anyone?](https://ko-fi.com/i/IP5P2UTAG1) <br />
-[Lessons that We Can Learn from Failure](https://ko-fi.com/post/Lesson-that-we-can-learn-from-failure-G2G4UWF8J) <br />
-[On Carefully Selecting your Research Adviser](https://ko-fi.com/post/On-Carefully-Selecting-your-Research-Adviser-C0C1V5ZXK) <br />
-[Why We Need More Scientists in the Philippines?](https://ko-fi.com/post/Why-We-Need-More-Scientists-in-the-Philippines-S6S0VK8S8) <br />
-[The Route to Normal Science](https://ko-fi.com/post/The-Route-to-Normal-Science-G2G1VVXFB) <br />
+### Teaching Experience
+*to be updated*
