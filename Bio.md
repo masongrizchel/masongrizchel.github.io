@@ -2,22 +2,16 @@
 layout: default
 ---
 
-> "Sapiens qui prospicit" - Personal Mantra
+Hi, I'm Rizchel from Valenzuela City where I completed my high school before fate led me to Physics and Artificial Intelligence.
 
-<justify> Hello, and welcome to my website! I’m Rizchel, an Artificial Intelligence Officer and an MSc Physics (candidate) dedicated to exploring the cosmos’ vastness! </justify>
+I received an education degree in 2015 at Pamantasan ng Lungsod ng Valenzuela. Eventually, I followed my dream and passion to pursue physics by taking an MS in Physics at De La Salle University. 
 
-<center> Literally me overthinking about overthinking </center>
-<center><img src="./assets/img/thinker.jpg" width="75%"></center>
+During my baccalaureate degree, I had the privilege to spearhead the community extension service of the university. And during my thesis journey, I was able to be chosen as the best presenter.
 
-<justify> Here, I'll share my latest discoveries and thoughts on cutting-edge developments in the field. Discover the developments in my life, whether they involve personal experiences, professional endeavors, or lessons to learn and draw inspiration from. This includes my academic endeavors. Join me on this exciting journey of cosmic exploration, and feel free to [contact](mailto:simasongcute@gmail.com) with any questions or comments. Let us unlock the possibility of pushing the boundaries of knowledge! </justify>
+When I became part of the pool of MS Physics, I had the privilege to be included in various projects. Also, became a member of the OPTICS Research Group.
 
-<center> My initial measurement procedures (attempts only) </center>
-<center><img src="./assets/img/experiments.jpg" width="75%"></center>
+Here are some of my memorable experiences throughout my academic journey:
 
-<br />
-Top Blog Posts: <br />
-[Why Physics is for Anyone?](https://ko-fi.com/i/IP5P2UTAG1) <br />
-[Lessons that We Can Learn from Failure](https://ko-fi.com/post/Lesson-that-we-can-learn-from-failure-G2G4UWF8J) <br />
-[On Carefully Selecting your Research Adviser](https://ko-fi.com/post/On-Carefully-Selecting-your-Research-Adviser-C0C1V5ZXK) <br />
-[Why We Need More Scientists in the Philippines?](https://ko-fi.com/post/Why-We-Need-More-Scientists-in-the-Philippines-S6S0VK8S8) <br />
-[The Route to Normal Science](https://ko-fi.com/post/The-Route-to-Normal-Science-G2G1VVXFB) <br />
+*to be updated*
+
+Now, I am an AI Officer in one of the biggest lodging industries in the Philippines.
