@@ -42,7 +42,7 @@ navigation:
       - name: Statements
         link: ./Research.html#statement
   - name: Teaching
-    link: ./index.html
+    link: ./Teaching.html
   - name: Bio
     link: ./index.html
   - name: Contact
