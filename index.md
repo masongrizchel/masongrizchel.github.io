@@ -25,4 +25,4 @@ Top Blog Posts: <br />
 [(The Route to Normal Science](https://ko-fi.com/post/The-Route-to-Normal-Science-G2G1VVXFB) <br />
 
 <br/>
-[More of Rizchel Masong](https://pinoyscientists.tumblr.com/post/163635780595/meet-rizchel-masong-physicist-1-what-do-you#notes) < br/>
+[More of Rizchel Masong](https://pinoyscientists.tumblr.com/post/163635780595/meet-rizchel-masong-physicist-1-what-do-you#notes)
