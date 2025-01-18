@@ -4,13 +4,13 @@ layout: default
 
 > "Sapiens qui prospicit" - Personal Mantra
 
-<justify> Hello, and welcome to my website! I’m Rizchel, an MSc Physics (candidate) dedicated to exploring the cosmos’ vastness! Also, I'm a former Artificial Intelligence Officer </justify>
+<justify> Hello, and welcome to my website! I’m Rizchel, an MSc Physics (candidate) dedicated to exploring the universe under radio frequency! I'm a former Artificial Intelligence Officer and currently a Data Science advocate. </justify>
 
 <center> Literally me overthinking about overthinking </center>
 
 <center><img src="./assets/img/thinker.jpg" width="75%"></center>
 
-<justify> Here, I'll share my latest discoveries and thoughts on cutting-edge developments in the field. Discover the developments in my life, whether they involve personal experiences, professional endeavors, or lessons to learn and draw inspiration from. This includes my academic endeavors. I'd like you to please join me on this exciting journey of cosmic exploration, and feel free to contact me with any questions or comments. Let us unlock the possibility of pushing the boundaries of knowledge! </justify>
+<justify> I'm sharing more of my professional and academic background on this website. I will also showcase some of the work that I have been doing and am currently working on, which includes my academic and professional endeavors. I'd like you to please join me on this journey, and feel free to contact me with any questions or comments. </justify>
 
 <center> My initial measurement procedures (attempts only) </center>
 
