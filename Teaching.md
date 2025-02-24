@@ -21,5 +21,5 @@ Making one of the most challenging subjects come alive makes me appreciate its e
 - Instructor III – University of Caloocan City (Sep 2021 – Jan 2022)
 - Instructor III – University of Caloocan City (Aug 2017 – Dec 2019)
 - Senior High School Instructor – Dr. Carlos Lanting College (Jun 2018 – Jan 2019)
-- Senior High School Instructor – Children of Mary Immaculate College (Jun 2018 – Apr 2019)
+- Senior High School Instructor – Children of Mary Immaculate College (Jun 2017 – Apr 2018)
 - Junior High School Teacher – St. Paul College of Bocaue (Jun 2015 – Apr 2016)
