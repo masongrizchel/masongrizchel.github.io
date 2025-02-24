@@ -18,7 +18,7 @@ The measurement of RFI in a selected region in the Philippines can provide an op
 - Project Development Officer, De La Salle University, 2017 - 2020
 
 ### Education:
-- MS Physics, De la Salle University, 2015 - present <br/>
+- MS Physics (candidate), De La Salle University, 2015 - present <br/>
 
 ### Publications & Presentations
 - Optimizing Adaptive High Bandpass Filtering for 1.4 GHz Radio Frequency Interference (RFI) Mitigation in Radio Astronomy – Presented at Taiwan Physical Society (2025)
