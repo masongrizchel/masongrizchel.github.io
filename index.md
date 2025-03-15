@@ -24,9 +24,8 @@ Top Blog Posts: <br />
 [Why We Need More Scientists in the Philippines?](https://ko-fi.com/post/Why-We-Need-More-Scientists-in-the-Philippines-S6S0VK8S8) <br />
 [The Route to Normal Science](https://ko-fi.com/post/The-Route-to-Normal-Science-G2G1VVXFB) <br />
 
-<br/>
 Interviews and Public Lectures: <br />
-[Interview: Radio Active](https://issuu.com/theappulse/docs/the-appulse-special-edition-2018)
+[Interview: Radio Active](https://issuu.com/theappulse/docs/the-appulse-special-edition-2018) <br />
 [Public Lecture: Connecting the Dots part 1](https://ms-my.facebook.com/PhilippineAstronomicalSociety/videos/connection-a-pas-monthly-lectureconnecting-the-dots-and-why-it-mattersby-rizchel/3037140526357955/) <br />
 [Public Lecture: Connecting the Dots part 2](https://www.facebook.com/PhilippineAstronomicalSociety/videos/connection-a-pas-monthly-lectureconnecting-the-dots-and-why-it-mattersby-rizchel/492818724890957/) <br />
 [More of Rizchel Masong](https://pinoyscientists.tumblr.com/post/163635780595/meet-rizchel-masong-physicist-1-what-do-you#notes) <br />
