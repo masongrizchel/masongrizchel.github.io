@@ -22,7 +22,7 @@ Top Blog Posts: <br />
 [Lessons that We Can Learn from Failure](https://ko-fi.com/post/Lesson-that-we-can-learn-from-failure-G2G4UWF8J) <br />
 [On Carefully Selecting your Research Adviser](https://ko-fi.com/post/On-Carefully-Selecting-your-Research-Adviser-C0C1V5ZXK) <br />
 [Why We Need More Scientists in the Philippines?](https://ko-fi.com/post/Why-We-Need-More-Scientists-in-the-Philippines-S6S0VK8S8) <br />
-[(The Route to Normal Science](https://ko-fi.com/post/The-Route-to-Normal-Science-G2G1VVXFB) <br />
+[The Route to Normal Science](https://ko-fi.com/post/The-Route-to-Normal-Science-G2G1VVXFB) <br />
 
 <br/>
 [Interview: Radio Active](https://issuu.com/theappulse/docs/the-appulse-special-edition-2018)
