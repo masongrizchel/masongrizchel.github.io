@@ -5,22 +5,17 @@ layout: default
 > "Sapiens qui prospicit" - Personal Mantra
 
 <br />
-
 <justify> Hello, and welcome to my website! I'm Rizchel, an MSc Physics (candidate) dedicated to exploring the universe at radio frequencies! I'm a former artificial intelligence officer and currently a data-driven astrophysics advocate. </justify>
-
 <br />
-
 <justify> Beyond my academic/research background, I'm a freelance, on-call AI/astrophysics lecturer and a part-time history & philosophy of science instructor: a former Artificial Intelligence (AI) Officer and an AI Automation Hobbyist. I'm also an aspiring Stand-Up Comedian. </justify>
-
 <br />
 <center> *Literally me overthinking about overthinking* </center>
-
 <center><img src="./assets/img/thinker.jpg" width="75%"></center>
-
+<br />
 <justify> I'm sharing more of my professional and academic background on this website. I will also showcase some of the work I have been doing and am currently working on, including my educational and professional endeavors. Please join me on this journey (by joining my bi-monthly newsletters) and regular blog postings via Ko-fi, and feel free to contact me with any questions or comments. You can find all my social media links below my profile picture. </justify>
+<br />
 
 <center> My initial measurement procedures (attempts only) </center>
-
 <center><img src="./assets/img/experiments.jpg" width="75%"></center>
 
 <br />
