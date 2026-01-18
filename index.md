@@ -1,17 +1,22 @@
 ---
 layout: default
 ---
-
 > "Sapiens qui prospicit" - Personal Mantra
 
 <br />
-<justify> Hello, and welcome to my website! I'm Rizchel, an MSc Physics (candidate) dedicated to exploring the universe at radio frequencies! I'm a former artificial intelligence officer and currently a data-driven astrophysics advocate. </justify>
+<justify> Hello, and welcome to my website! I'm Rizchel, an MSc Physics graduate and MSc Data Science (student), with a focus on exploring the universe at radio frequencies using Artificial Intelligence and Data Science methods! I'm a former Artificial Intelligence Officer & Manager and currently a data-driven astrophysics advocate. </justify>
 <br />
-<justify> Beyond my academic/research background, I'm a freelance, on-call AI/astrophysics lecturer and a part-time history & philosophy of science instructor: a former Artificial Intelligence (AI) Officer and an AI Automation Hobbyist. I'm also an aspiring Stand-Up Comedian. </justify>
+
+<br />
+<justify> Beyond my academic/research background, Incoming CEO of Quant⟨AI⟩, a startup company focusing on AI solutions. While materializing this venture, I’m a Lead AI/ Astrophysics Education Program Consultant, and AI Automation and Workflow Specialist. I’m also an aspiring Stand-Up Comedian.
+<br />
+</justify>
+
 <br />
 <center> *Literally me overthinking about overthinking* </center>
 <center><img src="./assets/img/thinker.jpg" width="75%"></center>
 <br />
+
 <justify> I'm sharing more of my professional and academic background on this website. I will also showcase some of the work I have been doing and am currently working on, including my educational and professional endeavors. Please join me on this journey (by joining my bi-monthly newsletters) and regular blog postings via Ko-fi, and feel free to contact me with any questions or comments. You can find all my social media links below my profile picture. </justify>
 <br />
 
