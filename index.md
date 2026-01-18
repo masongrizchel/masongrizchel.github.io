@@ -8,7 +8,7 @@ layout: default
 <br />
 
 <br />
-<justify> Beyond my academic/research background, Incoming CEO of Quant⟨AI⟩, a startup company focusing on AI solutions. While materializing this venture, I’m a Lead AI/ Astrophysics Education Program Consultant, and AI Automation and Workflow Specialist. I’m also an aspiring Stand-Up Comedian.
+<justify> Beyond my academic/research background, I'm the incoming CEO of Quant⟨AI⟩, a startup company focusing on AI solutions. While materializing this venture, I’m a Lead AI/ Astrophysics Education Program Consultant, and AI Automation and Workflow Specialist. I’m also an aspiring Stand-Up Comedian.
 <br />
 </justify>
 
