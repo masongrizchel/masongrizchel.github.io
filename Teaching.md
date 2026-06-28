@@ -16,7 +16,6 @@ Making one of the most challenging subjects come alive makes me appreciate its e
 - Dr. Reuben Quiroga
 
 ### Teaching Experience
-- Instructor (Part-time) – Lyceum of the Philippines University (Oct 2024 – Present)
 - Instructor III – De La Salle Araneta University (Sept 2018 – Feb 2024)
 - Instructor III – University of Caloocan City (Sep 2021 – Jan 2022)
 - Instructor III – University of Caloocan City (Aug 2017 – Dec 2019)
