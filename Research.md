@@ -6,25 +6,33 @@ layout: default
 *Physics, Radio astronomy*, Astrophysics, Machine Learning, Data Science, Physics Education, Artificial Intelligence. 
 
 ### Research Vision-Mission Statement
-Decades or even centuries ago, most of the observations in astronomy with the application of physics focused more on the optical window of electromagnetic radiation.
+Decades, or even centuries, ago, most astronomical observations, when applied to physics, focused on the optical window of electromagnetic radiation.
 
-I aim to measure RFI values with interference caused by different factors and their utilization to perform RFI measurements to determine whether the chosen site is suitable for radio astronomy observations within a 21 cm hydrogen line ~ 1420.4 MHz.
+I aim to measure RFI values from interference caused by different factors and use them to determine whether the chosen site is suitable for radio astronomy observations of the 21 cm hydrogen line at ~1420.4 MHz.
 
-The measurement of RFI in a selected region in the Philippines can provide an open window for different people to explore radio astronomy observation as we look at the same sky. The discovery of radio astronomy led to a further understanding of the universe's age and cosmic microwave background and even served as a test to the theories formulated decades ago.
+Measuring RFI in a selected region of the Philippines can provide an open window for people to explore radio astronomy, as we look at the same sky. The discovery of radio astronomy led to a deeper understanding of the universe's age and the cosmic microwave background, and even served as a test of theories formulated decades ago.
 
 ### Experiences
-- Graduate Student Research, OPTICS, De La Salle University, 2016 - present
+- Graduate Student Researcher, OPTICS, De La Salle University, 2016 - 2025
 - University Research Associate, De La Salle University, 2020 - 2023
 - Project Development Officer, De La Salle University, 2017 - 2020
 
 ### Education:
-- MS Physics (candidate), De La Salle University, 2015 - present <br/>
+- MS Physics, De La Salle University, 2026 <br/>
+- MS Data Science, University of Colorado Boulder, (ongoing) <br/>
 
 ### Publications & Presentations
+- From Fast Radio Bursts to Gravitational Waves: Adapting Multi-Modal CNNs for Robust, Low-Latency Transient Detection – Presented at AI for Gravitational Waves Workshop @ CERN (2026)
+- Private Sector Initiatives to Enhance Philippine Space Science Education: A Meta
+Synthesis - Presented at 76th International Astronautical Congress 2025
+- Charting the Local Constellations: Revisiting Astronomy Competencies in the K-12 
+Curricula - Presented at the K-12 Astronomy Education Conference in Asia, Chiang Mai, 
+Thailand, 2025.
+- Development of a Sky Condition Classifier Using All-Sky Images - Presented at AstroAI Asian Network (A3 Net) Summer School, Korean Institute for Advanced Studies (KIAS), 2025. 
 - Optimizing Adaptive High Bandpass Filtering for 1.4 GHz Radio Frequency Interference (RFI) Mitigation in Radio Astronomy – Presented at Taiwan Physical Society (2025)
 - Predictive and Characterized Pulsar Evolution from Its Optical Pulsation – Published at EPJ Web of Conferences (2020)
 -	Scientific Requirements of Radio Astronomy Observations in the Philippines – Presented at Journal of Physics: Conference Series (2019)
--	Optical property of white binary pulsar PSR J1713+0747 – Presented at Southeast Asian Astronomy Network (SEAAN) 2019, National University Singapore (2019)
+-	Optical property of white binary pulsar PSR J1713+0747 – Presented at Southeast Asian Astronomy Network (SEAAN) 2019, National University of Singapore (2019)
 -	Optical Pulsation Characteristics of PSR J1713+0747 – Presented at IONS KOALA 2019, University of Otago, New Zealand (2019)
 -	Philippine Ethnoastronomy - A Historical Milestone – Presented at the University of Sto. Tomas, St. Antoninus Graduate Research Congress (2018)
 -	Factors Affecting Quality of Radio Astronomy Observation in Archipelagic Setting – De La Salle Araneta University, 3rd International Congress (2018)
@@ -32,6 +40,7 @@ The measurement of RFI in a selected region in the Philippines can provide an op
 -	Site Location Study for Radio Astronomy Observatory through RFI Mapping Using MCDA and GIS Technique in the Philippines – DOST 2nd International Conference (2016)
 
 ### Collaborations:
+- A3Net Conference Series (2025 - present)
 - DOST-PCIEERD *"Development of Smart Polymer Metamaterial for Wearable Biosensors"* (2020-2023)
 - CHED-PCARI *"Wearable Cardiac Arrhythmia Monitoring based on Low Power Radar Principles"* (2017-2019)
 - IAU Astronomy Translation Network *"Filipino Translations for IAU Astronomy Online Resources"* (2017-2018)
