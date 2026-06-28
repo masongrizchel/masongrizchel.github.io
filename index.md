@@ -4,11 +4,11 @@ layout: default
 > "Sapiens qui prospicit" - Personal Mantra
 
 <br />
-<justify> Hello, and welcome to my website! I'm Rizchel, an MSc Physics graduate and MSc Data Science (student), with a focus on exploring the universe at radio frequencies using Artificial Intelligence and Data Science methods! I'm a former Artificial Intelligence Officer & Manager and currently a data-driven astrophysics advocate. </justify>
+<justify> Hello, and welcome to my website! I'm Rizchel, an astrophysicist and data scientist. I'm an Artificial Intelligence Projects Executive and currently a data-driven advocate for astrophysics. </justify>
 <br />
 
 <br />
-<justify> Beyond my academic/research background, I'm the incoming CEO of Quant⟨AI⟩, a startup company focusing on AI solutions. While materializing this venture, I’m a Lead AI/ Astrophysics Education Program Consultant, and AI Automation and Workflow Specialist. I’m also an aspiring Stand-Up Comedian.
+<justify> Beyond my academic/research background, I'm the incoming interim CEO of Quant⟨AI⟩, a startup company focusing on AI solutions. While materializing this venture, I’m a Lead AI/ Astrophysics Education Program Consultant and AI Automation and Workflow Specialist. I’m also an aspiring Stand-Up Comedian.
 <br />
 </justify>
 
@@ -17,7 +17,7 @@ layout: default
 <center><img src="./assets/img/thinker.jpg" width="75%"></center>
 <br />
 
-<justify> I'm sharing more of my professional and academic background on this website. I will also showcase some of the work I have been doing and am currently working on, including my educational and professional endeavors. Please join me on this journey (by joining my bi-monthly newsletters) and regular blog postings via Ko-fi, and feel free to contact me with any questions or comments. You can find all my social media links below my profile picture. </justify>
+<justify> I'm sharing more of my professional and academic background on this website. I will also showcase some of the work I have been doing and am currently working on, including my educational and professional endeavors. Please join me on this journey by following my regular blog posts on Ko-fi, and feel free to contact me with any questions. You can find all my social media links below my profile picture. </justify>
 <br />
 
 <center> My initial measurement procedures (attempts only) </center>
