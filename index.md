@@ -4,11 +4,11 @@ layout: default
 > "Sapiens qui prospicit" - Personal Mantra
 
 <br />
-<justify> Hello, and welcome to my website! I'm Rizchel, an astrophysicist and data scientist. I'm an Artificial Intelligence Projects Executive and currently a data-driven advocate for astrophysics. </justify>
+<justify> Hello, and welcome to my website! I'm Rizchel, an astrophysicist and data scientist. I'm also a data-driven advocate for astrophysics. </justify>
 <br />
 
 <br />
-<justify> Beyond my academic/research background, I'm the incoming interim CEO of Quant⟨AI⟩, a startup company focusing on AI solutions. While materializing this venture, I’m a Lead AI/ Astrophysics Education Program Consultant and AI Automation and Workflow Specialist. I’m also an aspiring Stand-Up Comedian.
+<justify> Beyond my academic/research background, I'm an Artificial Intelligence Projects Manager and a Chief Information Officer (CIO. While working at an AI/IT Development Solutions Company, I’m also a Lead AI/Astrophysics Education Program Consultant and AI Automation and Workflow Specialist. I’m also an aspiring Stand-Up Comedian.
 <br />
 </justify>
 
